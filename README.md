@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyap1038&label=Profile%20views&color=0e75b6&style=flat" alt="Priyap1038" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack and DSA**
-- 👨‍💻 All of my projects are available at [https://Priyap1038.github.io/](https://Priyap1038.github.io)
+- 👨‍💻 All of my projects are available at https://priyap1038.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
